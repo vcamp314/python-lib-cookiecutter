@@ -1,7 +1,7 @@
 {
     "repo_name": "template_test",
-    "pkg_name": "test",
-    "file_name": "test",
+    "pkg_name": "sample",
+    "file_name": "sample",
     "author": "sample",
     "email": "example@sample.com"
 }
