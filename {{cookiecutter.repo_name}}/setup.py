@@ -1,4 +1,5 @@
 import setuptools
+
 with open("README.md", "r") as fh:
     long_description = fh.read()
 
@@ -16,6 +17,7 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
+    license='MIT',
     python_requires='>=3.6',
     install_requires=[],
     setup_requires=['pytest-runner'],
