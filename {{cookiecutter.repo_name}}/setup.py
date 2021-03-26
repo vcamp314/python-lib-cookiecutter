@@ -10,7 +10,7 @@ setuptools.setup(
     author_email="{{cookiecutter.email}}",
     description="template for future packages",
     long_description=long_description,
-    long_description_content_type="text/markdown",
+    long_description_content_type="text/x-rst",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
